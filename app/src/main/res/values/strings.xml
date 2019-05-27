@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Księgarnia Admin</string>
+    <string name="no_search_results">Nie znaleziono żadnych książek</string>
+    <string name="book_cover_image">Okładka książki</string>
+    <string name="title">Tytuł</string>
+    <string name="authors">Autorzy</string>
+    <string name="price">Cena</string>
+    <string name="category">Kategoria</string>
+    <string name="photo_link">Link do zdjęcia</string>
+    <string name="note">Notatka</string>
+    <string name="add_book">Dodaj książkę</string>
+    <string name="edit_book">Edytuj książkę</string>
+    <string name="delete_book">Usuń książkę</string>
+
+    <string name="saved">Zapisano</string>
+    <string name="save_error">Problem z zapisaniem danych</string>
+
+    <string name="updated">Dane zaktualizowane</string>
+    <string name="update_error">Problem z aktualizacją danych</string>
+
+    <string name="unsaved_changes_dialog_msg">Odrzucić zmiany i wyjść?</string>
+    <string name="discard">Odrzuć</string>
+    <string name="keep_editing">Pozostań</string>
+
+    <string name="delete_dialog_msg">Usunąć tę książkę?</string>
+    <string name="delete">Usuń</string>
+    <string name="cancel">Pozostaw</string>
+    <string name="delete_successful">Usunięto pomyślnie</string>
+    <string name="delete_failed">Przy usuwaniu napotkano problem</string>
+
+    <string name="error_empty_edittext">To pole nie może być puste!</string>
+
+    <string-array name="categories" translatable="false">
+        <item>Klasyka</item>
+        <item>Fantastyka</item>
+        <item>Dramat</item>
+        <item>Ekonomia</item>
+        <item>Informatyka</item>
+    </string-array>
+</resources>
